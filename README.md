@@ -1,1 +1,2 @@
-# single-node-openshift-with-mas
+# Single-Node-Openshift-with-Maximo-Application-Suite (MAS)
+In diesem Github-Repo wird die Installation von Maximo Application Suite auf einem Single-Node-OpenShift-Cluster auf einer VM in vSphere dokumentiert.
